@@ -1,3 +1,3 @@
-Bienvenidos a WebHiker, el mejor, más completo (casi), mejor optimizado (definitivamente no) y de mayor confianza gestor de archivos web del mercado actual. Diseñado por Juan Pablo Morales
-
+Bienvenidos a WebHiker, el mejor, más completo (casi), mejor optimizado (definitivamente no) y de mayor confianza gestor de archivos web del mercado actual. Diseñado por Juan Pablo Morales<br />
+<br />
 Realizado en Ensamblador, integrado con deep learning, arquitectura MVC, sin frameworks 100% Funcional 1 link mega + Crack en español... No, realizado en php, bootstrap y mucho cariño.
