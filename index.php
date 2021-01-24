@@ -229,8 +229,7 @@
                 </div>   
 
                 <div class="row">
-                    <?php foreach($directorios as $directorio):?>
-                        
+                    <?php foreach($directorios as $directorio):?>   
                         <?php 
                             // -------- Rutas ------------
                             $arr = null;
@@ -272,10 +271,8 @@
                             }
 
                         ?>
-
                         <div class="col-md-3">
-
-                            <div class="card ba" style="width: 18rem;">
+                            <div class="card" style="width: 18rem;">
                                 <img src="img/<?php echo (is_dir($path.'/'.$directorio)) ? 'descarga.png': 'archivo.png'?>" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title"><?php echo $directorio?></h5>
@@ -353,7 +350,6 @@
                                     <?php endif;?>
                                 </div>
                             </div>
-
                         </div>
                     <?php endforeach;?>
                     
@@ -383,10 +379,6 @@
             font-size: 20px;
         }
 
-
-        .ba:hover{
-            opacity: 1.0;
-        }
 
         a.active{ 
             background-color: black !important;
